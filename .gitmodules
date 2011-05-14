@@ -1,0 +1,3 @@
+[submodule "beetle"]
+	path = beetle
+	url = https://github.com/xing/beetle.git
